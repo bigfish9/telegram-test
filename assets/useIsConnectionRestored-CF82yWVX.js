@@ -1,1 +1,0 @@
-import{_ as c,g as r,c as n,h as a,o as e,r as i}from"./index-3Urh41SB.js";const _={name:"EntrypointPage",setup(){return{connectionRestored:r()}}},d={key:0};function p(o,l,u,t,m,f){const s=i("MainPage");return e(),n("div",null,[t.connectionRestored?(e(),a(s,{key:1})):(e(),n("div",d,"Please wait..."))])}const R=c(_,[["render",p]]);export{R as default};
